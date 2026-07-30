@@ -8,7 +8,7 @@ Built end-to-end with a modular Python pipeline for data ingestion, ratio analys
 
 ## Live Dashboard
 
-
+https://public.tableau.com/views/ComparableCompanyAnalysis/CompsAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
