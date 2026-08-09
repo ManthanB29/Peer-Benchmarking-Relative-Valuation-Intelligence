@@ -175,7 +175,7 @@ Exports two clean CSVs — financials and ratios — formatted for direct use as
 ```bash
 # Clone the repo
 git clone https://github.com/ManthanB29/Peer-Benchmarking-Relative-and-Valuation-Intelligence.git
-cd Comparable_Company_Analysis
+cd Peer-Benchmarking-Relative-and-Valuation-Intelligence
 
 # Install dependencies
 pip install pandas numpy yfinance
