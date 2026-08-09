@@ -1,4 +1,4 @@
-# Payments Industry — Comparable Company Analysis
+# Peer Benchmarking & Relative Valuation Intelligence (Payments Industry)
 
 A full-stack comp analysis project analyzing **Visa, Mastercard, American Express, and PayPal** across financial performance, profitability, cash flow, valuation, and growth dimensions.
 
@@ -7,8 +7,7 @@ Built end-to-end with a modular Python pipeline for data ingestion, ratio analys
 ---
 
 ## Live Dashboard
-
-https://public.tableau.com/views/ComparableCompanyAnalysis/CompsAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/PeerBenchmarkingRelativeValuationIntelligence/CompsAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -175,7 +174,7 @@ Exports two clean CSVs — financials and ratios — formatted for direct use as
 
 ```bash
 # Clone the repo
-git clone https://github.com/ManthanB29/Comparable_Company_Analysis.git
+git clone https://github.com/ManthanB29/Peer-Benchmarking-Relative-and-Valuation-Intelligence.git
 cd Comparable_Company_Analysis
 
 # Install dependencies
