@@ -1,4 +1,4 @@
-# Comparable Company Analysis (Payments Industry)
+# Peer Benchmarking & Relative Valuation Intelligence (Payments Industry)
 
 A full-stack comp analysis project analyzing **Visa, Mastercard, American Express, and PayPal** across financial performance, profitability, cash flow, valuation, and growth dimensions.
 
