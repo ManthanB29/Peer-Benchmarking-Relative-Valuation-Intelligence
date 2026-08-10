@@ -1,4 +1,4 @@
-# Peer Benchmarking & Relative Valuation Intelligence (Payments Industry)
+# Comparable Company Analysis (Payments Industry)
 
 A full-stack comp analysis project analyzing **Visa, Mastercard, American Express, and PayPal** across financial performance, profitability, cash flow, valuation, and growth dimensions.
 
@@ -174,8 +174,8 @@ Exports two clean CSVs — financials and ratios — formatted for direct use as
 
 ```bash
 # Clone the repo
-git clone https://github.com/ManthanB29/Peer-Benchmarking-Relative-and-Valuation-Intelligence.git
-cd Peer-Benchmarking-Relative-and-Valuation-Intelligence
+git clone https://github.com/ManthanB29/Comparable_Company_Analysis.git
+cd Comparable_Company_Analysis
 
 # Install dependencies
 pip install pandas numpy yfinance
